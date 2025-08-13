@@ -5,14 +5,10 @@ SnapShot is a Python application designed to analyze video clips from hockey gam
 ## Original
 Watch a sample of SnapShot in action:
 ### Before
-<video controls width="600">
-  <source src="/input-videos/nhl.mp4" type="video/mp4">
-</video>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1109536284?h=01a2092cd6" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
 ### After
-<video controls width="600">
-  <source src="./output-videos/nhl.mp4" type="video/mp4">
-</video>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1109536828?h=1fb26f38c8" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
 ## Features
 * **Player Annotation by Team**: Detects and labels players from two opposing teams with position markers and team-specific identifiers
