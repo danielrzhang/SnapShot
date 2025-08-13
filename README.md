@@ -8,7 +8,7 @@ Watch a sample of SnapShot in action:
 [](https://github.com/user-attachments/assets/7fd4311b-6692-468c-8a49-b977d13f9174)
 
 ### After
-
+[](https://github.com/user-attachments/assets/9523a3b1-15fc-441a-8618-b74015f6869b)
 
 ## Features
 * **Player Annotation by Team**: Detects and labels players from two opposing teams with position markers and team-specific identifiers
