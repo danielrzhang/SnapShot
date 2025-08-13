@@ -1,0 +1,1 @@
+from .rink_keypoint_detector import RinkKeypointDetector
