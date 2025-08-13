@@ -17,7 +17,7 @@ def save_video(output_video_frames, output_video_path):
   if not os.path.exists(os.path.dirname(output_video_path)):
     os.mkdir(os.path.dirname(output_video_path))
 
-  fourcc = cv2.VideoWriter_fourcc(*"mp4v")
+  fourcc = cv2.VideoWriter_fourcc(*"XVID")
   output = cv2.VideoWriter(output_video_path, fourcc, 30.0, (output_video_frames[0].shape[1], output_video_frames[0].shape[0]))
 
   for frame in output_video_frames:

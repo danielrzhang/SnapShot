@@ -82,7 +82,7 @@ def main():
     #                                                 player_assignment,
     #                                                 puck_acquisition)
 
-    save_video(output_video_frames, "output-videos/nhl.mp4")
+    save_video(output_video_frames, "output-videos/nhl.avi")
 
 if __name__ == "__main__":
     main()
