@@ -20,7 +20,7 @@ Watch a sample of SnapShot in action:
 ## YOLO Training Summary
 The training was conducted locally on my computer for all three image classification models (puck, player, rink). Below is the specified hardware I used to achieve the reported training times. The publicly available Roboflow datasets and fine-tuning models used are also listed below.
 
-⚠️ Be advised that if you plan to run these training models locally, a GPU is necessary. Processing solely via CPU will significantly increase training time and you may encounter device overheating issues.
+⚠️ Be advised that if you plan on running these training models locally, a GPU is necessary. Processing solely via CPU will significantly increase training time and you may encounter device overheating issues.
 
 **Training Device Specs:**
   * **CPU**: Intel(R) Core(TM) Ultra 7
