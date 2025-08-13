@@ -18,7 +18,9 @@ Watch a sample of SnapShot in action:
 - **Custom Models**: Utilizes pre-trained Roboflow datasets and a custom YOLO model for accurate object detection.  
 
 ## YOLO Training Summary
-The training for the puck, player, and rink models was conducted locally on the hardware specified below. A GPU is required for efficient training; using a CPU alone significantly increases processing time and may cause performance issues.  
+The training for the puck, player, and rink models was conducted locally on the hardware specified below. 
+
+⚠️ Note: A GPU is required for efficient training; using a CPU alone significantly increases processing time and may cause performance issues.  
 
 ### Training Device Specs
 - **CPU**: Intel Core Ultra 7 155H  
