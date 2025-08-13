@@ -2,12 +2,11 @@
 ## Overview
 SnapShot is a Python application designed to analyze video clips from hockey games. It relies on YOLO object detection and custom machine learning models trained from Roboflow datasets, and this tool automatically annotates key elements found in the video. This program processes input videos frame-by-frame, applies computer vision techniques for detection and tracking, and outputs annotated videos with statistical summaries. This app is best used for clips up to 30 seconds to ensure quick processing times and highest accuracy. This can be used for coaches, analysts, or hockey enthusiasts to efficiently break down gameplay dynamics.
 
-## Original
 Watch a sample of SnapShot in action:
-### Before
+### Before SnapShot processing
 [](https://github.com/user-attachments/assets/7fd4311b-6692-468c-8a49-b977d13f9174)
 
-### After
+### After SnapShot processing
 [](https://github.com/user-attachments/assets/9523a3b1-15fc-441a-8618-b74015f6869b)
 
 ## Features
