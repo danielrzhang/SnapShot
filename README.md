@@ -6,7 +6,7 @@ SnapShot is a Python application designed to analyze video clips from hockey gam
 Watch a sample of SnapShot in action:
 ### Before
 <video controls width="600">
-  <source src="./input-videos/nhl.mp4" type="video/mp4">
+  <source src="input-videos/nhl.mp4" type="video/mp4">
 </video>
 
 ### After
