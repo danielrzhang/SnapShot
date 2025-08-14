@@ -45,7 +45,7 @@ The training for the puck, player, and rink models was conducted locally on the 
 - **Dependencies**:  
   ```bash
   ultralytics
-  torch
+  pytorch
   roboflow
   opencv-python
   numpy
