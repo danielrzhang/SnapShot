@@ -27,9 +27,9 @@ The training for the puck, player, and rink models was conducted locally on the 
 - **GPU**: NVIDIA RTX 3000 Ada  
 
 ### Training Times
-- **Player Recognition**: 18 hours (on a dataset of ~1,500 images, 100 epochs)  
-- **Puck Recognition**: 56 hours (on a dataset of ~17,000 images, 500 epochs)  
-- **Rink Keypoints**: 12 hours (on a dataset of ~100 images, 100 epochs)  
+- **Player Recognition**: 18 hours (on a dataset of ~3,500 images, 100 epochs)  
+- **Puck Recognition**: 56 hours (on a dataset of ~47,000 images, 500 epochs)  
+- **Rink Keypoints**: 8 hours (on a dataset of ~100 images, 500 epochs)
 
 ### Datasets Used
 - **Player (YOLOv5)**: [Hockey-3fz5i](https://universe.roboflow.com/francisco-workspace/hockey-3fz5i/dataset/7)  
